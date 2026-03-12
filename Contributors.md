@@ -6,6 +6,7 @@
 [Kenil Gorasiya](https://github.com/Kenildev007)
 - [Vinesh nayak] (https://github.com/Vineshnayak)
 - [Maurice Carroll] (https://github.com/nwbikedude)
+- [Blessing Izee] ) (https://github.com/Blessing-Imoukhede)
 - [Ton Lin]
 - [Saqib Anjum Masoodi](https://github.com/SaqibMasoodi)
 - [Naim Muaz](https://github.com/naimmuaz)
@@ -1539,5 +1540,3 @@ Merjen Amanmuradova
 - [Ritesh Kundara](https://github.com/23f2002447)
 - [JaeBeom Park](https://github.com/recrime)  
 - [sangjinnnggg](https://github.com/sangjinnnggg)
-- [Kejimi-data] (https://github.com/Kejimi-data)
-- [Ishola-Tosin-G](https://github.com/Ishola-Tosin-G)
